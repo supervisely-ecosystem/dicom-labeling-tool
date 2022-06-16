@@ -1,5 +1,5 @@
 {
-  "name": "DICOM labeling tool #1",
+  "name": "DICOM labeling tool",
   "type": "annotation_tool",
   "annotation_tool_type": "volumes_v1",
   "categories": [
@@ -12,7 +12,7 @@
   ],
   "icon_background": "#FFFFFF",
   "icon_cover": false,
-  "icon": "https://imgur.com/LHD0OCt.png",
+  "icon": "https://cdn.supervise.ly/img/dicom-toolbox.e858768.png",
   "context_menu": {
     "target": [
       "volumes_dataset"
