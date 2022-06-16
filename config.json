@@ -1,0 +1,21 @@
+{
+  "name": "DICOM labeling tool #1",
+  "type": "annotation_tool",
+  "annotation_tool_type": "volumes_v1",
+  "categories": [
+    "neural network",
+    "DICOM",
+    "interactive segmentation",
+    "inference interfaces",
+    "annotation tool",
+    "labeling"
+  ],
+  "icon_background": "#FFFFFF",
+  "icon_cover": false,
+  "icon": "https://imgur.com/LHD0OCt.png",
+  "context_menu": {
+    "target": [
+      "volumes_dataset"
+    ]
+  }
+}
