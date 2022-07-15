@@ -8,10 +8,10 @@ Label volumetric medical scans from CT and MRI in 2D or 3D with professional vie
 
 [Learn more ➡️](https://supervise.ly/labeling-toolbox/dicom-medical-imaging)
 
-[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/image-labeling-tool-v2)
+[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/dicom-labeling-tool)
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
-[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/image-labeling-tool-v2&counter=views&label=views)](https://supervise.ly)
-[![runs](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/image-labeling-tool-v2&counter=runs&label=runs&123)](https://supervise.ly)
+[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/dicom-labeling-tool&counter=views&label=views)](https://supervise.ly)
+[![runs](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/dicom-labeling-tool&counter=runs&label=runs&123)](https://supervise.ly)
 
 <img src="https://user-images.githubusercontent.com/106374579/174046035-2aadcdb2-e848-4592-9e08-32bcbccd35ac.png"/>
 </div>
