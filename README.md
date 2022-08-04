@@ -10,8 +10,8 @@ Label volumetric medical scans from CT and MRI in 2D or 3D with professional vie
 
 [![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/dicom-labeling-tool)
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
-[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/dicom-labeling-tool)](https://supervise.ly)
-[![runs](https://app.supervise.ly/img/badges/runs/supervisely-ecosystem/dicom-labeling-tool)](https://supervise.ly)
+[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/dicom-labeling-tool.png)](https://supervise.ly)
+[![runs](https://app.supervise.ly/img/badges/runs/supervisely-ecosystem/dicom-labeling-tool.png)](https://supervise.ly)
 
 <img src="https://user-images.githubusercontent.com/106374579/174046035-2aadcdb2-e848-4592-9e08-32bcbccd35ac.png"/>
 </div>
