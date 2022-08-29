@@ -14,7 +14,7 @@
   "icon_background": "#FFFFFF",
   "icon_cover": false,
   "icon": "https://cdn.supervise.ly/img/dicom-toolbox.e858768.png",
-  "poster": "https://user-images.githubusercontent.com/12828725/174098430-6ec8d5bc-b37e-4283-9684-1952f9aa3de3.png",
+  "poster": "https://user-images.githubusercontent.com/628181/187227539-4e8af53b-0bca-4bb9-8fc2-130408f52d15.jpg",
   "context_menu": {
     "target": [
       "volumes_dataset"
