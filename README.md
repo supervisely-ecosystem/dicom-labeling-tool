@@ -4,7 +4,7 @@
 
 ## A complete solution for DICOM annotation
 
-Label volumetric medical scans from CT and MRI in 2D or 3D with professional viewer, advanced editing tools and AI enhancements.
+Label volumetric medical scans from CT and MRI in 2D or 3D with a professional viewer, advanced editing tools, and AI enhancements.
 
 [Learn more ➡️](https://supervise.ly/labeling-toolbox/dicom-medical-imaging)
 
@@ -34,7 +34,7 @@ Full variety of instruments from our best-in-class [image labeling toolbox](http
 
 ### PROFESSIONAL DICOM VIEWER
 # User interface doctors know and love
-Supervisely provides well-known intuitive interface to view and manipulate volumetric medical images in multiple projections and slices with expert features medical professionals are used to.
+Supervisely provides a well-known intuitive interface to view and manipulate volumetric medical images in multiple projections and slices with expert features medical professionals are used to.
 
 `Navigation through slices in multiple projections`  |  `Rotate, flip, invert colors` 
 :---------------:|:-----------------:
@@ -63,7 +63,7 @@ We believe professional tools don't have to be complicated.
 ### DICOM ANNOTATION
 # Multi-planar labeling
 
-Essential tools for annotation of multi-slice series in coronal, sagittal, axial planes.
+Essential tools for annotation of multi-slice series in coronal, sagittal, and axial planes.
 
 `Multi-slice annotation objects`  |  `Building 3D volumes from 2D figures` 
 :---------------:|:-----------------:|
@@ -71,7 +71,7 @@ Essential tools for annotation of multi-slice series in coronal, sagittal, axial
 
 
  `Tagging`  | 
- |:-----------------:|
+ :-----------------:|
  <img src="https://user-images.githubusercontent.com/106374579/174054717-97750493-a30d-41a4-91be-3108a5445cf8.png" width="500" height="auto"/>
 
  </div>
@@ -96,7 +96,7 @@ More features for increased efficiency and productivity.
 ### DATA SECURITY & PRIVACY
 # HIPAA compliance & data anonymization
 
-Companies working with protected health information provide extra requirements when it comes to user information privacy, data security and organization polices.
+Companies working with protected health information provide extra requirements when it comes to user information privacy, data security, and organization policies.
 
 
 ## Meets the requirements
@@ -111,6 +111,6 @@ Our platform and team will help you continually maintain HIPAA compliance with b
 * Security audits and vulnerability scanning
 * Enforcing security awareness and responsibilities
 
-To better understand about how Supervisely protects your data and users security please see our [security and permissions page](https://supervise.ly/data-and-users/security) — or feel free to [get in touch](https://supervise.ly/contact-us) with us and chat about it with our experts!
+To better understand how Supervisely protects your data and ensures user security, please see our [security and permissions page](https://supervise.ly/data-and-users/security) — or feel free to [get in touch](https://supervise.ly/contact-us) with us and chat about it with our experts!
 
 </div>
