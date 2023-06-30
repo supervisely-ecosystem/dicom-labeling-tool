@@ -70,9 +70,9 @@ Essential tools for annotation of multi-slice series in coronal, sagittal, and a
 <img src="https://user-images.githubusercontent.com/106374579/174053260-17f72eac-452c-4cee-bddb-7ba52672ad13.gif" width="500" height="auto" width="500" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/174054191-30428311-2b7a-44e8-ac66-5ec9a61da2cd.gif" width="500" height="auto"/>
 
 
- `Tagging`  | 
- :-----------------:|
- <img src="https://user-images.githubusercontent.com/106374579/174054717-97750493-a30d-41a4-91be-3108a5445cf8.png" width="500" height="auto"/>
+ |`Tagging`  | 
+ |:-----------------:|
+ | <img src="https://user-images.githubusercontent.com/106374579/174054717-97750493-a30d-41a4-91be-3108a5445cf8.png" width="500" height="auto"/> |
 
  </div>
 
