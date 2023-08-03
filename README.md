@@ -17,6 +17,12 @@ Label volumetric medical scans from CT and MRI in 2D or 3D with a professional v
 </div>
 
 <br/>
+
+🔥🔥🔥 Check out our quick [youtube overview](https://youtu.be/1rFeUfmT20k) and the article on [how to use the toolset](https://supervisely.com/blog/dicom-labeling-toolbox/) in our blog:   
+
+<a href="https://youtu.be/1rFeUfmT20k" target="_blank"><img src="https://github.com/supervisely-ecosystem/dicom-labeling-tool/assets/57998637/0aad3cd1-7ae3-4623-8c01-1fd6a0e55a69"/></a>
+
+<br/>
 <br/>
 
 <div align="center" markdown>
