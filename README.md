@@ -6,12 +6,12 @@
 
 Label volumetric medical scans from CT and MRI in 2D or 3D with a professional viewer, advanced editing tools, and AI enhancements.
 
-[Learn more ➡️](https://supervise.ly/labeling-toolbox/dicom-medical-imaging)
+[Learn more ➡️](https://supervisely.com/labeling-toolbox/dicom-medical-imaging)
 
-[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/dicom-labeling-tool)
-[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
-[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/dicom-labeling-tool.png)](https://supervise.ly)
-[![runs](https://app.supervise.ly/img/badges/runs/supervisely-ecosystem/dicom-labeling-tool.png)](https://supervise.ly)
+[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervisely.com/apps/supervisely-ecosystem/dicom-labeling-tool)
+[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
+[![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/dicom-labeling-tool.png)](https://supervisely.com)
+[![runs](https://app.supervisely.com/img/badges/runs/supervisely-ecosystem/dicom-labeling-tool.png)](https://supervisely.com)
 
 <img src="https://user-images.githubusercontent.com/106374579/174046035-2aadcdb2-e848-4592-9e08-32bcbccd35ac.png"/>
 </div>
@@ -31,7 +31,7 @@ Label volumetric medical scans from CT and MRI in 2D or 3D with a professional v
 
 # Precise tools for medical labeling
 
-Full variety of instruments from our best-in-class [image labeling toolbox](https://supervise.ly/labeling-toolbox/images) — plus, extra tools for medical imaging, like window adjustments.
+Full variety of instruments from our best-in-class [image labeling toolbox](https://supervisely.com/labeling-toolbox/images) — plus, extra tools for medical imaging, like window adjustments.
 
 <img src="https://user-images.githubusercontent.com/106374579/174047979-aacac014-2f2e-4b1f-ae77-b0b20bd98e42.gif" width="auto" height="400" />
 </div>
@@ -117,6 +117,6 @@ Our platform and team will help you continually maintain HIPAA compliance with b
 * Security audits and vulnerability scanning
 * Enforcing security awareness and responsibilities
 
-To better understand how Supervisely protects your data and ensures user security, please see our [security and permissions page](https://supervise.ly/data-and-users/security) — or feel free to [get in touch](https://supervise.ly/contact-us) with us and chat about it with our experts!
+To better understand how Supervisely protects your data and ensures user security, please see our [security and permissions page](https://supervisely.com/data-and-users/security) — or feel free to [get in touch](https://supervisely.com/contact-us) with us and chat about it with our experts!
 
 </div>
