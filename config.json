@@ -11,6 +11,8 @@
     "annotation tool",
     "labeling"
   ],
+  "docker_image": "supervisely/main-import:6.73.548",
+  "min_instance_version": "6.15.40",
   "icon_background": "#FFFFFF",
   "icon_cover": false,
   "icon": "https://cdn.supervise.ly/img/dicom-toolbox.e858768.png",
